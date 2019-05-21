@@ -2,7 +2,7 @@
 ## Adding the extension
 First you need to register the extension by adding the following line to your application.
 
-    $twig->addExtension(new Twig_Extension_Perch());
+    $twig->addExtension(new Twig_Perch_Extension());
 
 ## Using the extension
 Now to use the Perch Extension in your templates you first need to call the runtime using…
