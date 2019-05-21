@@ -1,5 +1,5 @@
 <?php
-class Twig_Extension_Perch extends Twig_Extension
+class Twig_Perch_Extension extends Twig_Extension
 {
 	public function getFunctions()
 	{
